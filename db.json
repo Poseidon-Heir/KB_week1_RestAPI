@@ -1,21 +1,31 @@
+const interns = [
+    {
+      id: 1,
+      first_name: "Tony",
+      last_name: "Stark"
+      
+    },
+    {
+      id: 2,
+      first_name: "Steve",
+      last_name: "Rogers"
+      
+    },
+    {
+      id: 3,
+      first_name: "bruce",
+      last_name: "banner"
+    } , 
 {
-    "Interns": [
-      {
-        "id": 1,
-        "first_name": "Sebastian",
-        "last_name": "Eschweiler"
-        
-      },
-      {
-        "id": 2,
-        "first_name": "Steve",
-        "last_name": "Palmer"
-        
-      },
-      {
-        "id": 3,
-        "first_name": "Ann",
-        "last_name": "Smith"
-      }
-    ]
-  }
+        id: 4,
+        first_name: "peter",
+        last_name: "parker"
+    },
+    {
+
+        id:5,
+        first_name:"kiran",
+        last_name: "b"
+
+    }
+];
