@@ -1,4 +1,8 @@
 # KB_week1_RestAPI
+  *****This repository still updated until 5th Feb 2023 
+  Two RestAPIs are created using NodeJs, MySQL , dockerised and tested in Postman.
+  
+
    1. Write a REST service HTTP+JSON in any programming language 
    2. Save / Read data from DB (PostgreSQL or MySQL) 
    3. Dockerize the service 
@@ -13,10 +17,12 @@
 
 
 ---***(nodemon must also be installed )
-To run the program with need to type the command :  nodemon server.js    
+To run the program with need to type the command :  nodemon server.js    or  npm run start:dev   depending on the package.json file configuration 
 
 
 
-and in browser search the endpoint : http://localhost:3000/api/interns
+
+
+and in browser search the endpoint : http://localhost:3000
 
 
