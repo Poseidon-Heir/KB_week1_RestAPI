@@ -7,3 +7,11 @@
    6. Run service using docker compose 
    7. Test using postman 
    8. Write unit test cases to test the service  
+
+  ******* node modules along with these github files
+
+To run the program with need to type the command :  nodemon server.js
+
+and in browser search the endpoint : http://localhost:3000/api/interns
+
+
