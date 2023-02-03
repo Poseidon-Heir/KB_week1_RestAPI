@@ -10,7 +10,12 @@
 
   ******* node modules along with these github files
 
-To run the program with need to type the command :  nodemon server.js
+
+
+---***(nodemon must also be installed )
+To run the program with need to type the command :  nodemon server.js    
+
+
 
 and in browser search the endpoint : http://localhost:3000/api/interns
 
